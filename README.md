@@ -4,9 +4,9 @@
 
 ## Installation
 ``` bash
-  npm install @liqueflies/vue-flex-grid --save
+  npm install @liqueflies/vue-grid --save
   # or
-  yarn add @liqueflies/vue-flex-grid
+  yarn add @liqueflies/vue-grid
 ```
 
 ## Example usage
